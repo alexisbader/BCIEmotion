@@ -1,4 +1,4 @@
-#!/Users/alexisbader/BME3A/MSCI446/neurosity-sdk-python/env/bin/python3.11
+#!/Users/alexisbader/BME3A/MSCI446/MLEmotion/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

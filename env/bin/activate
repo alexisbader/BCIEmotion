@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/alexisbader/BME3A/MSCI446/neurosity-sdk-python/env"
+VIRTUAL_ENV="/Users/alexisbader/BME3A/MSCI446/MLEmotion/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
